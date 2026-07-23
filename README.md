@@ -1,3 +1,4 @@
+---
 
 <div align="center">
 
@@ -25,19 +26,15 @@ Currently focused on:
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Current Focus
 
-### 🏫 NexaFlow Campus
+Currently working on building modern software solutions focused on:
 
-A smart school management platform designed to help educational institutions automate their daily operations through technology.
-
-Features include:
-
-- 📚 School management systems
-- 🤖 AI-powered assistance
-- 💬 Communication automation
-- 📊 Data dashboards & reporting
-- 🔐 Secure digital workflows
+- 🤖 Artificial Intelligence & Automation
+- 🏢 Business Process Optimization
+- 🌐 Full-Stack Web Applications
+- ⚙️ Scalable Backend Systems
+- 📊 Data-driven Platforms
 
 *"Building the future of smarter education, one feature at a time."*
 
