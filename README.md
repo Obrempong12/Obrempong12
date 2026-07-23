@@ -79,17 +79,7 @@ A journey from understanding how software works to building systems that solve r
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Obrempong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obrempong12&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obrempong12&layout=compact&theme=tokyonight)
-
 </div>
-
----
 
 <div align="center">
 
