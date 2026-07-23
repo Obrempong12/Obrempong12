@@ -25,7 +25,7 @@ Currently focused on:
 
 ---
 
-## 🚀 Current Focus
+## 🧠 What I'm Building
 
 Currently working on building modern software solutions focused on:
 
@@ -83,7 +83,7 @@ I believe great engineers never stop learning.
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Collaborate
 
 I'm always interested in collaborating on:
 
