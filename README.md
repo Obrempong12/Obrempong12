@@ -1,4 +1,3 @@
-# 👋 Hey, I'm Obrempong Stephenson
 
 <div align="center">
 
