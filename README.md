@@ -83,6 +83,10 @@ A journey from understanding how software works to building systems that solve r
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Obrempong12/Obrempong12/blob/output/github-contribution-grid-snake.svg)
+
 ### 💡 "Predicting the future is building it"
 
 </div>
